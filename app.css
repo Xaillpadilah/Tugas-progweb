@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(#9a9a9a 0%,#dd4c4f 40%,#7420d3 100%S);
+}
+
+.profile {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.profileImage{
+width: 200px;
+}
+.sosmed .site-list li {
+    display: inline-block;
+    margin-right: 20px; 
+}
